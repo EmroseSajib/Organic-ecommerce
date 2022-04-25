@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "title": "apple",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/6QvsSmtr/Rectangle-3011-1.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "orange",
+        "price": 18.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/wMHZPxjJ/Rectangle-3061-1.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 3,
+        "title": "bread",
+        "price": 19.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/Wb5CWvLF/Rectangle-3054.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 4,
+        "title": "cheese",
+        "price": 18.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/85Tbg7L1/Rectangle-3055-1.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 5,
+        "title": "fruit",
+        "price": 17.5,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/13ZnjLGS/Rectangle-3056.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 5,
+        "title": "fish",
+        "price": 5.5,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/x1ygCrnj/Rectangle-3057.png",
+        "rating": {
+            "rate": 1.9,
+            "count": 20
+        }
+    },
+    {
+        "id": 6,
+        "title": "gooseberry",
+        "price": 15.9,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3058.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },{
+        "id": 6,
+        "title": "angur",
+        "price": 20.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3059.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },{
+        "id": 6,
+        "title": "nellikai",
+        "price": 15.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3060.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },{
+        "id": 6,
+        "title": "grapes",
+        "price": 77.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3067.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 6,
+        "title": "dratchai",
+        "price": 99.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3062.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },{
+        "id": 6,
+        "title": "guava",
+        "price": 15.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3063.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },{
+        "id": 6,
+        "title": "amla",
+        "price": 95.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3064.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },{
+        "id": 6,
+        "title": "amrud",
+        "price": 15.25,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3065.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    },{
+        "id": 6,
+        "title": "koiya",
+        "price": 17.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://i.postimg.cc/PJwQn9Sj/Rectangle-3066.png",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    }
+
+]
